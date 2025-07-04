@@ -23,8 +23,7 @@ This repository contains the official PyTorch implementation of "*Unaligned RGB 
 
 ## News :sparkles:
 
-- [ ] 2025-07-XX: Release example checkpoints.
-- [x] 2025-07-04: Release code.
+- [x] 2025-07-04: Release code and example checkpoints.
 - [x] 2025-07-01: Update README.
 - [x] 2025-06-17: Published online [Springer](https://link.springer.com/article/10.1007/s11263-025-02466-8).
 - [x] 2025-05-04: Upload for [Arxiv](https://arxiv.org/abs/2505.02109).
